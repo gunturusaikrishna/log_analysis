@@ -76,7 +76,7 @@ def most_error_day():
     print_as_title("---Days with more than 1% of bad requests---")
 
     for day, percentagefailed in most_error_day:
-        print("""  {0:%B %d, %Y} -- {1:.2f} % errors"""
+        print("""{0:%B %d, %Y} -- {1:.2f} % errors"""
               .format(day, percentagefailed))
 
 
