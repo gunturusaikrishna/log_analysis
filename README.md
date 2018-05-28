@@ -68,7 +68,7 @@ as t where errp > 1.0;
 
 * Create database name as news.
 
-* Download the datafile from this link https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip and place in vagrant folder.
+* Download the datafile from this link https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip.
 
 * Type the command (cd /vagrant ) to make it into vagrant path.
 
