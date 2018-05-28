@@ -49,6 +49,6 @@ This is a python module that uses information of large database of a web server 
 as t where errp > 1.0;
 ```
 ### Output:
-![Screenshot.jpg](https://github.com/visheshbanga/Log-Analysis-Udacity-Project/blob/master/Screenshot.JPG)
+![log.png](https://github.com/gunturusaikrishna/log_analysis/blob/master/log.png)
 
 ```
